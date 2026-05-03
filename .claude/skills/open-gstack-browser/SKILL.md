@@ -1,0 +1,1 @@
+/Users/ping/Desktop/Desktop/muse/.claude/skills/gstack/open-gstack-browser/SKILL.md

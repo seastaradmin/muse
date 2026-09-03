@@ -1,0 +1,12 @@
+# 会话产物（plan 等），不入仓
+.zcode/
+
+# 系统
+.DS_Store
+
+# 依赖
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
